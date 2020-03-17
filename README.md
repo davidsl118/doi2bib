@@ -2,7 +2,7 @@
 Inputs DOI outputs Bibtex
 
 # Installation
-Add alias entry to .bashrc file as follows 
+Add alias entry to .bashrc file as follows    
 alias doi2bib='curl -L -H "Accept: text/bibliography; style=bibtex"'
 
 # Usage
