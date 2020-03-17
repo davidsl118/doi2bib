@@ -1,5 +1,5 @@
 # doi2bib
-Inputs DOI outputs Bibtex
+Converts given DOI to BibTex 
 
 # Installation
 Add alias entry to .bashrc file as follows    
